@@ -10,3 +10,4 @@ Deleting betty file
 Deleted my first directory
 Change working directory to the previous one
 script to list files in long format in working directory, parent directory and /boot
+show the type of file in tmp/iamafile
