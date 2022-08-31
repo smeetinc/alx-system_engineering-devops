@@ -8,3 +8,4 @@ script to make a directory in tmp directory
 move betty file to the tmp/my_first_directory
 Deleting betty file
 Deleted my first directory
+Change working directory to the previous one
