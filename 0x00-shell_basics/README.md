@@ -12,4 +12,5 @@ Change working directory to the previous one
 script to list files in long format in working directory, parent directory and /boot
 show the type of file in tmp/iamafile
 created a symbolic link with __ls __ to /bin/ls
-copyonly new html files to parent directory 
+copy only new html files to parent directory
+move files with uppercase name to tmp/u 
