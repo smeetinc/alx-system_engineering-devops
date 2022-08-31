@@ -3,3 +3,4 @@ Second script shows the content of a directory.
 Third script to change working directory to home
 The long format list command
 Long format with hidden files
+User Ids and groups displayed numerically with long format and hidden files
