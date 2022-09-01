@@ -14,4 +14,5 @@ show the type of file in tmp/iamafile
 created a symbolic link with __ls __ to /bin/ls
 copy only new html files to parent directory
 move files with uppercase name to tmp/u
-remove files ending with ~ 
+remove files ending with ~
+create three dictories within one another forming a tree architecture  
