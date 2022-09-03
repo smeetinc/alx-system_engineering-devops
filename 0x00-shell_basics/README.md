@@ -16,4 +16,5 @@ copy only new html files to parent directory
 move files with uppercase name to tmp/u
 remove files ending with ~
 create three dictories within one another forming a tree architecture 
-List content with commas,hidden files included with directories and sorted. 
+List content with commas,hidden files included with directories and sorted.
+magic file school.mgc that can be used with the command file to detect School data files. School data files always contain the string SCHOOL at offset 0 
