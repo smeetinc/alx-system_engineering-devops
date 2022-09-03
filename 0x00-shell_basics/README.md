@@ -15,4 +15,5 @@ created a symbolic link with __ls __ to /bin/ls
 copy only new html files to parent directory
 move files with uppercase name to tmp/u
 remove files ending with ~
-create three dictories within one another forming a tree architecture  
+create three dictories within one another forming a tree architecture 
+List content with commas,hidden files included with directories and sorted. 
