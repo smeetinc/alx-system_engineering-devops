@@ -5,4 +5,5 @@ Task 3 - script to display two files contents
 Task 4 - script to display the  last  ten lines
 Task 5 - script to display the first 10 lines
 Task 6 - script to display the third line of the file
-Task 7 - script that creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line 
+Task 7 - script that creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line
+Task 8 - script to redirect output to a file  
