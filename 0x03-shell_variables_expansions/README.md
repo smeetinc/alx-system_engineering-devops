@@ -12,3 +12,4 @@ Task 10 - script that displays the result of BREATH to the power LOVE
 Task 11 - script that converts a number from base 2 to base 10.
 Task 12 - script that prints all possible combinations of two letters, except oo.
 Task 13 - script that prints a number with two decimal places, followed by a new line.
+Task 14 - script that converts a number from base 10 to base 16.
