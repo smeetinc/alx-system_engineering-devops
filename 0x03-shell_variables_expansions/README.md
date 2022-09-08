@@ -10,3 +10,4 @@ Task 8 - script that prints the result of the addition of 128 with the value sto
 Task 9 - script that prints the result of POWER divided by DIVIDE, followed by a new line.
 Task 10 - script that displays the result of BREATH to the power LOVE
 Task 11 - script that converts a number from base 2 to base 10.
+Task 12 - script that prints all possible combinations of two letters, except oo.
